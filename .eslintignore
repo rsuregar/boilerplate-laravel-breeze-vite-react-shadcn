@@ -1,0 +1,4 @@
+**/node_modules/*
+**/src/recore/*
+coverage
+build
